@@ -1,5 +1,5 @@
-# Palm Dataset - 6,000 Images
-Dataset comprises **6,000** high-quality images featuring diverse **human hands**, specifically designed for **hand detection**, **palm recognition**, and **gesture analysis**. It provides diverse training data with metadata on age, gender, and ethnicity for accurate **computer vision** model training.— **[Get the data](https://unidata.pro/datasets/open-palm-hand-images/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=open-palm-hand-images)**
+# Palm Dataset -  500,000  Images
+Dataset comprises **500,000** high-quality images featuring diverse **human hands**, specifically designed for **hand detection**, **palm recognition**, and **gesture analysis**. It provides diverse training data with metadata on age, gender, and ethnicity for accurate **computer vision** model training.— **[Get the data](https://unidata.pro/datasets/open-palm-hand-images/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=open-palm-hand-images)**
 
 ## Dataset characteristics:
 | Characteristic          | Data                                                                 |
@@ -7,17 +7,17 @@ Dataset comprises **6,000** high-quality images featuring diverse **human hands*
 | Description             | Open palm images designed for training and evaluating hand-based identification algorithms |
 | Data types              | Image                                                                |
 | Tasks                   | Hand Recognition, Computer Vision                                   |
-| Total number of files   | 6,000                                                               |
-| Number of files in a set| 12 (6 images of right hand, 6 images of left hand)                  |
-| Labeling                | Metadata (Age, gender, ethnicity, profession (or previous job), device, dominant hand) |
+| Total number of files   | 500,000                                                               |
+| Number of files in a set| 10 (6 image of hand, 2 image of printed hand, 2 replay videos)                 |
+| Labeling                | Metadata (Age, gender, ethnicity, profession (or previous job), device, dominant hand, has_jewelry ) |
 | Gender                  | Male, Female                                                        |
 
 ### 📊 Sample dataset available! For full access, [contact us](https://unidata.pro/datasets/open-palm-hand-images/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=open-palm-hand-images) to discuss purchase terms.
 
 ## Dataset structure
-- 0001 —  a folder of palm images from the first person.
-- 0002 —  a folder of palm images from the second person.
-- 0003 —  a folder of palm images from the third person.
+- Print —  a folder of printed palm images.
+- Real —  a folder of palm images.
+- Replay —  a folder of palm replay images.
 
 ### 🧩 Like the dataset but need different data? We can collect a custom dataset just for you - learn more about our data collection services [here](https://unidata.pro/datasets/open-palm-hand-images/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=open-palm-hand-images)
 
